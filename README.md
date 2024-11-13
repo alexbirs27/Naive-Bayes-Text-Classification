@@ -98,7 +98,6 @@ This image provides a detailed view of the probability distributions for each cl
 ![Fictive Data Results](results/fictive_data.png)
 
 
-## References
 
 ## References
 
