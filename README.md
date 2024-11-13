@@ -8,7 +8,6 @@ These projects demonstrate the application of the Naive Bayes classifier to text
 - [Project Setup](#project-setup)
 - [Mathematical Model](#mathematical-model)
 - [Implementation Details](#implementation-details)
-- [Running the Projects](#running-the-projects)
 - [Evaluation and Results](#evaluation-and-results)
 - [References](#references)
 
@@ -78,12 +77,7 @@ Text data is transformed into a vector space model using TF-IDF vectorization, c
 
 Using the precomputed probabilities, the classifier calculates the log probabilities for each class and predicts the class with the highest log probability to mitigate underflow issues.
 
-## Running the Projects
 
-To run either project, navigate to the directory containing the script and run:
-```bash
-python naive_bayes_classifier.py
-```
 
 ## Evaluation and Results
 
