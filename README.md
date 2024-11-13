@@ -84,7 +84,7 @@ python naive_bayes_classifier.py
 ## Evaluation and Results
 
 The classifier's performance is evaluated based on its accuracy in predicting the correct class for new documents. Results are displayed in the console, including the accuracy and a breakdown of correct and incorrect predictions.
-
+(results/Acuratetea Programului.png)
 ## References
 
 - [Naive Bayes - Scikit-Learn](https://scikit-learn.org/stable/modules/naive_bayes.html)
