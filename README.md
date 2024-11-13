@@ -83,8 +83,22 @@ python naive_bayes_classifier.py
 
 ## Evaluation and Results
 
-The classifier's performance is evaluated based on its accuracy in predicting the correct class for new documents. Results are displayed in the console, including the accuracy and a breakdown of correct and incorrect predictions.
-![Accuracy of the Program](results/Acuratetea Programului.png)
+## Results Visualization
+
+Here are visual representations of the classifier's performance and other analytical results:
+
+### Model Accuracy and Predictions
+
+This image shows the accuracy and the count of correct and incorrect predictions by the model:
+
+![Accuracy of the Program](results/Acuratetea%20Programului.png)
+
+### Classification Probabilities
+
+This image provides a detailed view of the probability distributions for each classified document:
+
+![Fictive Data Results](results/fictive_data.png)
+
 
 ## References
 
