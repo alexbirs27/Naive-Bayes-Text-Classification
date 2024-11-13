@@ -38,15 +38,19 @@ nltk.download('wordnet')
 
 ## Mathematical Model
 
-Both projects employ a Multinomial Naive Bayes classifier which bases its calculations on Bayes' Theorem:
+The core of our classifier is based on Bayes' Theorem, which in the context of our problem is formulated as:
 
-\[ P(C_k | x) = rac{P(x | C_k) P(C_k)}{P(x)} \]
+$$
+P(C_k \mid x) = \frac{P(x \mid C_k) \cdot P(C_k)}{P(x)}
+$$
 
 Where:
-- \(P(C_k | x)\) is the posterior probability of class \(C_k\) given predictor(s) \(x\).
-- \(P(x | C_k)\) is the likelihood which is the probability of predictor given class \(C_k\).
-- \(P(C_k)\) is the prior probability of class \(C_k\).
-- \(P(x)\) is the prior probability of predictor.
+- $P(C_k \mid x)$ is the posterior probability of class $C_k$ given predictor(s) $x$.
+- $P(x \mid C_k)$ is the likelihood which is the probability of predictor given class $C_k$.
+- $P(C_k)$ is the prior probability of class $C_k$.
+- $P(x)$ is the prior probability of the predictor.
+
+This theorem allows us to calculate the probability of a class based on the presence of features in the data.
 
 ### Preprocessing Techniques
 
