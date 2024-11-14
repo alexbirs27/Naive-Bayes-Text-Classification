@@ -103,7 +103,7 @@ This image provides a detailed view of the probability distributions for each cl
 
 - [Naive Bayes - Scikit-Learn](https://scikit-learn.org/stable/modules/naive_bayes.html)
 - [Naive Bayes Classifiers - Towards Data Science](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c)
-- [TF-IDF for Text Mining](https://monkeylearn.com/blog/what-is-tf-idf/)
+- [TF-IDF for Text Mining](https://www.semrush.com/blog/tf-idf/?kw=&cmp=EE_SRCH_DSA_Blog_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=676606915187&kwid=dsa-2185834088336&cmpid=18361923498&agpid=157305244791&BU=Core&extid=128176891021&adpos=&gad_source=1&gclid=CjwKCAiA3Na5BhAZEiwAzrfagHDgJOWv6Nn8fZQ7qHoCeY6pn-q36xRgPdTTwnmqhvSg1TVS5vFxVRoCqLoQAvD_BwE)
 - [Text Preprocessing Techniques](https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/)
 - [A Friendly Introduction to Machine Learning](https://www.analyticsvidhya.com/blog/2020/02/a-friendly-introduction-to-machine-learning/)
 - [Naive Bayes Tutorial - YouTube](https://www.youtube.com/watch?v=TLInuAorxqE)
