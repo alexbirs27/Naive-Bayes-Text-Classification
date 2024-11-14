@@ -105,7 +105,6 @@ This image provides a detailed view of the probability distributions for each cl
 - [Naive Bayes Classifiers - Towards Data Science](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c)
 - [TF-IDF for Text Mining](https://monkeylearn.com/blog/what-is-tf-idf/)
 - [Text Preprocessing Techniques](https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/)
-- [Evaluation Metrics for Classification Models](https://towardsdatascience.com/evaluation-metrics-for-classification-models-18ac56f2b5f2)
 - [Introduction to Machine Learning](https://machinelearningmastery.com/what-is-machine-learning/)
 - [A Friendly Introduction to Machine Learning](https://www.analyticsvidhya.com/blog/2020/02/a-friendly-introduction-to-machine-learning/)
 - [Naive Bayes Tutorial - YouTube](https://www.youtube.com/watch?v=TLInuAorxqE)
